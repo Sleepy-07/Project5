@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="show_attendance">Show Attendance</string>
+    <string name="home_work">Home Work</string>
+    <string name="gallery">Gallery</string>
+    <string name="notice">Notice</string>
+    <string name="pay_fee">Pay Fee</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+</resources>
