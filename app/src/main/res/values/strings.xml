@@ -8,4 +8,8 @@
     <string name="pay_fee">Pay Fee</string>
     <string name="about">About</string>
     <string name="todo">TODO</string>
+    <string name="mark_attendenace">Mark Attendenace</string>
+    <string name="mark_nattendance">Mark \nAttendance</string>
+    <string name="show_nattendance">Show \nAttendance</string>
+    <string name="home_nwork">Home \nWork</string>
 </resources>
